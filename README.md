@@ -2,4 +2,4 @@
 Hello World!
 Juancho es
 mi nombre
-Go Bears!
+Go
